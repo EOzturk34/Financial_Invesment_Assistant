@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venvFinancial/
+.venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+.env.*
+
+# API Keys
+*.key
+credentials.json
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data
+*.csv
+*.xlsx
+*.db
+*.sqlite
+
+# Model artifacts
+*.pkl
+*.h5
+*.tf
+models/saved_models/
+rag/vectordb/
+/data/processed/
+/data/raw/
+
+# Logs
+*.log
+logs/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+/tmp/
+temp/
+
+# Cache
+/cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
