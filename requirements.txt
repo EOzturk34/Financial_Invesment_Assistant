@@ -3,24 +3,10 @@ pandas>=2.0.0
 numpy>=1.24.0
 scikit-learn>=1.2.0
 
-# RAG & LLM
-langchain>=0.1.0
-transformers>=4.30.0
-sentence-transformers>=2.2.0
-chromadb>=0.4.0
-accelerate>=0.20.0
-
-# Web Scraping
-beautifulsoup4>=4.12.0
-requests>=2.30.0
-newspaper3k>=0.2.8
-
-# Deep Learning
-tensorflow>=2.13.0
-tensorflow-hub>=0.14.0
-
 # Financial Data
 yfinance>=0.2.25
+requests>=2.30.0
+finnhub-python>=2.4.18
 
 # UI
 streamlit>=1.24.0
@@ -30,3 +16,19 @@ plotly>=5.15.0
 python-dotenv>=1.0.0
 tqdm>=4.65.0
 schedule>=1.2.0
+
+# Coming Soon
+# RAG & LLM
+# langchain>=0.1.0
+# transformers>=4.30.0
+# sentence-transformers>=2.2.0
+# chromadb>=0.4.0
+# accelerate>=0.20.0
+
+# Web Scraping
+# beautifulsoup4>=4.12.0
+# newspaper3k>=0.2.8
+
+# Deep Learning
+# tensorflow>=2.13.0
+# tensorflow-hub>=0.14.0

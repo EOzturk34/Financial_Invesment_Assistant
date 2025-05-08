@@ -58,7 +58,8 @@ TOP_K_RETRIEVAL = 5
 # API keys (stored in .env file)
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 HUGGINGFACE_API_KEY = os.getenv("HUGGINGFACE_API_KEY", "")
-
+ALPHA_VANTAGE_API_KEY = "your_key"
+FINNHUB_API_KEY = "your_key"
 # UI settings
 PAGE_TITLE = "Financial Investment Assistant"
 PAGE_ICON = "💰"

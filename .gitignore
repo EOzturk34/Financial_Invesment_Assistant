@@ -14,7 +14,8 @@ ENV/
 .env
 .env.*
 
-# API Keys
+# API Keys and Config
+config.py
 *.key
 credentials.json
 
